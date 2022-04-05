@@ -1,0 +1,60 @@
+
+/* font-family: Abel*/
+@font-face{
+    font-family: Abel;
+    src: url('Abel/Abel-Regular.ttf');
+}
+
+/* font-family: Anton*/
+@font-face{
+    font-family: Anton;
+    src: url('Anton/Anton-Regular.ttf');
+}
+
+/* font-family: Josefin*/
+@font-face{
+    font-family: Josefin;
+    src: url('Josefin_Sans/JosefinSans-Regular.ttf');
+}
+
+/* font-famil: Lato*/
+@font-face{
+    font-family: Lato;
+    src: url('Lato/Lato-Regular.ttf');
+}
+
+/* font-family: Lexend*/
+@font-face{
+    font-family: Lexend;
+    src: url('Lexend_Deca/LexendDeca-Regular.ttf');
+}
+
+/* font-family: Livvic*/
+@font-face{
+    font-family: Livvic;
+    src: url('Livvic/Livvic-Regular.ttf');
+}
+
+/* font-famil: Lobster*/
+@font-face{
+    font-family: Lobster;
+    src: url('Lobster/Lobster-Regular.ttf');
+}
+
+/* font-famil: Neuton*/
+@font-face{
+    font-family: Neuton;
+    src: url('Neuton/Neuton-Regular.ttf');
+}
+
+/* font-famil: Poppins*/
+@font-face{
+    font-family: Poppins;
+    src: url('Poppins/Poppins-Regular.ttf');
+}
+
+/* font-famil: Roboto*/
+@font-face{
+    font-family: Roboto;
+    src: url('Roboto/Roboto-Regular.ttf');
+}
